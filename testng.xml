@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="1" name="Innosabi E2E Tests" preserve-order="true">
+    <classes>
+      <class name="com.e2e.innosabi.E2E_protoType"/>
+    </classes>
+  </test> 
+</suite> 
