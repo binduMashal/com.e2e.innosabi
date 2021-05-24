@@ -1,6 +1,6 @@
 # com.e2e.innosabi
 
-This is a simple end to end testing for innosabi testing challenge
+This is a simple end to end testing prototype for innosabi testing challenge
 
 All the tests are available in com.e2e.innosabi.E2E_protoType class
 
@@ -21,6 +21,9 @@ mvn compile install
 
 Results
 -----
+* **TestNG  View**
+![Test NG Result](https://github.com/binduMashal/com.e2e.innosabi/blob/main/testNgRes.PNG)
+
 * **Command Line Output:**
 ```
 [RemoteTestNG] detected TestNG version 7.4.0
